@@ -1,0 +1,1 @@
+<a href="blogindex.php">Click here to read my blog</a>
